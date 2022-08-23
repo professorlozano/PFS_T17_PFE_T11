@@ -1,2 +1,3 @@
 Início da Aula de Git
 alteração do arquivo git.txt
+terceira alteração no arquivo git.txt
