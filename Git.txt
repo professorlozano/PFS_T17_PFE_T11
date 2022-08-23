@@ -1,1 +1,2 @@
 Início da Aula de Git
+alteração do arquivo git.txt
