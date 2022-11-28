@@ -1,0 +1,18 @@
+.cardnews{
+    width: 15em;
+    height: 22.5em;
+    background: var(--gradient);
+    color: #fff;
+    margin-bottom: 2em;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0),0px 0px 30px rgb(0, 0, 0);
+}
+
+.cardnews h3{
+    padding-left: 20px;
+    padding-top: 5px;
+    font-size: 24px;
+}
+.cardnews p{
+    padding-left: 20px;
+    font-size: 16px;
+}
