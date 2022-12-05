@@ -1,54 +1,40 @@
 {
-  "users": [
-    {
-      "email": "thiago@email.com",
-      "password": "$2a$10$G0cYDVRVvKUpNlHXgyUZx.5AHA.Vr3Vj31YD5.9537dL1Xcsac7nC",
-      "nome": "Thiago",
-      "id": 1
-    },
-    {
-      "email": "jessica@email.com",
-      "password": "$2a$10$FwM3btfvdJf1TsTD8Q9IdOEJwcCca/E6I5quERUYK90N1uQOou/uO",
-      "nome": "Jessicar",
-      "id": 2
-    }
-  ],
   "noticias": [
     {
       "id": 1,
       "imagem": "assets/img/cardnews.jpg",
-      "titulo": "Avaí subiu para a série A",
-      "descricao": "Avaí subiu para a série A do campeonato brasileiro"
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
     },
     {
       "id": 2,
-      "imagem": "assets/img/canids.jpg",
-      "titulo": "Black Friday derruba o preco do Disco de Freio",
-      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste de JSon",
+      "descricao": "Testando novamente o Json"
     },
     {
       "id": 3,
       "imagem": "assets/img/cardnews.jpg",
-      "titulo": "Renato Gaucho demitido",
-      "descricao": "Renato Gaucho foi demitido do Flamengo após jogo contra o Palmeiras"
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
     },
     {
       "id": 4,
       "imagem": "assets/img/cardnews.jpg",
-      "titulo": "Black Friday derruba o preco do Disco de Freio",
-      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
     },
     {
       "id": 5,
-      "imagem": "assets/img/canids.jpg",
-      "titulo": "Black Friday derruba o preco do Disco de Freio",
-      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
     },
     {
       "id": 6,
       "imagem": "assets/img/cardnews.jpg",
-      "titulo": "Black Friday derruba o preco do Disco de Freio",
-      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
     }
   ]
 }

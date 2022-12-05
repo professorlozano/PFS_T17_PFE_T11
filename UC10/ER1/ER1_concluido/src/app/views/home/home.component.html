@@ -84,10 +84,11 @@
         <div class="bloco-noticias">
             <h2>Notícias</h2>
             <div id="espaco-noticias" class="content-news">
-                    <img src="noticia.imagem" alt="Foto da jogadora profissional">
-                    <h3>titulo</h3>
-                    <p>noticia</p>
-                
+                <div *ngFor="let noticias of listaNoticias" class="cardnews">
+                    <img [src]="noticias.imagem" alt="Foto da jogadora profissional">
+                    <h3>{{noticias.titulo}}</h3>
+                    <p>{{noticias.descricao}}</p>
+                </div>
                 <!-- <div class="cardnews">
                     <img src="assets/img/cardnews.jpg" alt="Foto da jogadora profissional">
                     <h3>Título da notícia</h3>
