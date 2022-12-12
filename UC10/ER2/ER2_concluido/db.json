@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "email": "luiz@email.com",
+      "password": "123",
+      "nome": "luiz",
+      "id": "1"
+    },
+    {
+      "email": "joao@email.com",
+      "password": "$2a$10$tfop3Jp/ylM7alXjfGyKFuXZpbERJJpi7ywWne9KZLzLDRqU/t12W",
+      "nome": "joao",
+      "id": "nqTxxCl"
+    }
+  ],
   "noticias": [
     {
       "id": 1,

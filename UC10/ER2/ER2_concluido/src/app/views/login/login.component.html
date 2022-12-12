@@ -14,6 +14,6 @@
         <input id="botao-enviar" type="submit" value="Fazer Login">
 
     </form>
-    <p id="mensagem"> </p>
+    <p id="mensagem" *ngIf=" mensagem != '' "> {{ mensagem }} </p>
     
 </main>
