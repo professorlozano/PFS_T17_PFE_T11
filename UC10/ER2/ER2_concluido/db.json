@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste de JSon",
+      "descricao": "Testando novamente o Json"
+    },
+    {
+      "id": 3,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    },
+    {
+      "id": 4,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    },
+    {
+      "id": 5,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    },
+    {
+      "id": 6,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    }
+  ]
+}
