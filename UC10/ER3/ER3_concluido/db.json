@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "luiz@email.com",
+      "password": "123",
+      "nome": "luiz",
+      "id": "1"
+    },
+    {
+      "email": "joao@email.com",
+      "password": "$2a$10$tfop3Jp/ylM7alXjfGyKFuXZpbERJJpi7ywWne9KZLzLDRqU/t12W",
+      "nome": "joao",
+      "id": "nqTxxCl"
+    }
+  ],
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste de JSon",
+      "descricao": "Testando novamente o Json"
+    },
+    {
+      "id": 3,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    },
+    {
+      "id": 4,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    },
+    {
+      "id": 5,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    },
+    {
+      "id": 6,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "Testando o Json"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+main {
+    background-color: black;
+    padding: 100px 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: white;
+}
+
+form {
+    width: 40%;
+    height: 400px;
+    margin: 0 auto;
+    padding: 100px 0;
+
+    background-color: #1E1C21;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+form input[type="submit"] {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #C31616;    
+    color: white;
+}
+
+.campo-label {
+    width: 60%;
+    margin: 0 auto;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    text-indent: 5px;
+}
+
+input, button {
+    height: 35px;
+    border-radius: 4px;
+    border: none;
+}
+
+button {
+    width: 200px;
+}
+
+p {
+    text-align: center;
+}
