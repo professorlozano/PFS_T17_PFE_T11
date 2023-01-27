@@ -1,0 +1,220 @@
+<div id="carrossel" class="banner banner-f1">
+    <div class="container-grid posicao-texto">
+        <div class="texto-banner">
+            <h1>Liga E-Players</h1>
+            <p>O maior portal de campeonatos online</p>
+            <a href="">Inscreva-se</a>
+        </div>
+    </div>
+</div>
+<section class="secao-jogos">
+    <div class="jogos container">
+        <a href="#"><img src="assets/img/f1-logo.png" alt="Logo da Fórmula 1"></a>
+        <a href="#"><img src="assets/img/lol-logo.png" alt="Logo do League of Legends"></a>
+        <a href="#"><img src="assets/img/cs-logo.png" alt="Logo do Counter-Strike"></a>
+        <a href="#"><img src="assets/img/valorant.png" alt="Logo do valorant"></a>
+        <a href="#"><img src="assets/img/fifa.png" alt="Logo do fifa"></a>
+    </div>
+</section>
+<section class="secao-sobre">
+    <div class="conteudo-sobre container">
+        <div class="row alinhar-centro">
+            <div class="texto-sobre col">
+                <h2>Como participar das ligas?</h2>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                    the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                    of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+                    but also the leap into electronic typesetting, remaining essentially unchanged. It was
+                    popularised in the .</p>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+                    the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
+                    of type and scrambled it to make a type specimen book.</p>
+            </div>
+            <div class="container-imagem col">
+                <img src="assets/img/campeao-lol.png" alt="Imagem do campeao do lol, Ezreal">
+            </div>
+        </div>
+    </div>
+</section>
+<section class="secao-partidas">
+    <div class="partidas container">
+        <div class="games-aovivo">
+            <h2>Ao<br>Vivo</h2>
+            <div class="partida">
+                <div class="time1">
+                    <p>SK</p>
+                    <img src="assets/img/SK 1.png" alt="Logo do time 1">
+                </div>
+                <p>VS</p>
+                <div class="time2">
+                    <img src="assets/img/SK 1.png" alt="Logo time 2">
+                    <p>VRS</p>
+                </div>
+            </div>
+        </div>
+        <div class="games-embreve">
+            <h2>Em<br>Breve</h2>
+            <div class="partida">
+                <div class="time1">
+                    <p>SK</p>
+                    <img src="assets/img/SK 1.png" alt="Logo do time 1">
+                </div>
+                <p>VS</p>
+                <div class="time2">
+                    <img src="assets/img/SK 1.png" alt="Logo time 2">
+                    <p>VRS</p>
+                </div>
+            </div>
+            <div class="partida">
+                <div class="time1">
+                    <p>SK</p>
+                    <img src="assets/img/SK 1.png" alt="Logo do time 1">
+                </div>
+                <p>VS</p>
+                <div class="time2">
+                    <img src="assets/img/SK 1.png" alt="Logo time 2">
+                    <p>VRS</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="secao-noticias">
+    <div class="container">
+        <div class="bloco-noticias">
+            <h2>Notícias</h2>
+            <div id="espaco-noticias" class="content-news">
+                <div *ngFor="let noticia of listaNoticias" class="cardnews">
+                    <img [src]=noticia.imagem alt="Foto da jogadora profissional">
+                    <h3>{{ noticia.titulo }}</h3>
+                    <p>{{ noticia.descricao }}</p>
+                </div>
+                
+                <!-- <div class="cardnews">
+                    <img src="assets/img/cardnews.jpg" alt="Foto da jogadora profissional">
+                    <h3>Título da notícia</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                </div> -->
+            </div>
+        </div>
+        <aside class="next-games">
+            <h2>Próximos Jogos</h2>
+            <div class="next-games-bg">
+                <div class="next-games-match">
+                    <div class="teams">
+                        <div>
+                            <p>VRS</p>
+                            <img src="assets/assets/img/SK 1.png" alt="Logo do Time">
+                        </div>
+                        <p>VS</p>
+                        <div>
+                            <img src="assets/assets/img/SK 1.png" alt="Logo do Time">
+                            <p>SK</p>
+                        </div>
+                    </div>
+                    <!--Fim Teams-->
+                    <p>03/12/2020 19:00</p>
+                </div>
+                <!--Fim Games Match-->
+                <div class="next-games-match">
+                    <div class="teams">
+                        <div>
+                            <p>VRS</p>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                        </div>
+                        <p>VS</p>
+                        <div>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                            <p>SK</p>
+                        </div>
+                    </div>
+                    <!--Fim Teams-->
+                    <p>03/12/2020 19:00</p>
+                </div>
+                <!--Fim Games Match-->
+                <div class="next-games-match">
+                    <div class="teams">
+                        <div>
+                            <p>VRS</p>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                        </div>
+                        <p>VS</p>
+                        <div>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                            <p>SK</p>
+                        </div>
+                    </div>
+                    <!--Fim Teams-->
+                    <p>03/12/2020 19:00</p>
+                </div>
+                <!--Fim Games Match-->
+
+                <div class="next-games-match">
+                    <div class="teams">
+                        <div>
+                            <p>VRS</p>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                        </div>
+                        <p>VS</p>
+                        <div>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                            <p>SK</p>
+                        </div>
+                    </div>
+                    <!--Fim Teams-->
+                    <p>03/12/2020 19:00</p>
+                </div>
+                <!--Fim Games Match-->
+                <div class="next-games-match">
+                    <div class="teams">
+                        <div>
+                            <p>VRS</p>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                        </div>
+                        <p>VS</p>
+                        <div>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                            <p>SK</p>
+                        </div>
+                    </div>
+                    <!--Fim Teams-->
+                    <p>03/12/2020 19:00</p>
+                </div>
+                <!--Fim Games Match-->
+                <div class="next-games-match">
+                    <div class="teams">
+                        <div>
+                            <p>VRS</p>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                        </div>
+                        <p>VS</p>
+                        <div>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                            <p>SK</p>
+                        </div>
+                    </div>
+                    <!--Fim Teams-->
+                    <p>03/12/2020 19:00</p>
+                </div>
+                <!--Fim Games Match-->
+                <div class="next-games-match">
+                    <div class="teams">
+                        <div>
+                            <p>VRS</p>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                        </div>
+                        <p>VS</p>
+                        <div>
+                            <img src="assets/img/SK 1.png" alt="Logo do Time">
+                            <p>SK</p>
+                        </div>
+                    </div>
+                    <!--Fim Teams-->
+                    <p>03/12/2020 19:00</p>
+                </div>
+                <!--Fim Games Match-->
+
+            </div>
+        </aside>
+    </div>
+</section>

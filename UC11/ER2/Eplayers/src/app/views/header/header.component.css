@@ -1,0 +1,23 @@
+header {
+    height: 80px;
+    background-color: #1E1C21;    
+}
+
+.menu {
+    width: 660px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu a {
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.barras {
+    width: 30px;
+    display: none;
+}

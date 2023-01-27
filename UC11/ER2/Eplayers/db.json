@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "thiago@email.com",
+      "password": "$2a$10$G0cYDVRVvKUpNlHXgyUZx.5AHA.Vr3Vj31YD5.9537dL1Xcsac7nC",
+      "nome": "Thiago",
+      "id": 1
+    },
+    {
+      "email": "jessica@email.com",
+      "password": "$2a$10$0xDxx4nnn19n0lTjTwEljOyvp5f/x4zKwBVzGw0aJ.fiDVimRRJqe",
+      "nome": "Jessica",
+      "id": 2
+    },
+    {
+      "email": "caique@email.com",
+      "password": "$2a$10$SeVx9QKjyggwUu9ezQcr4.CLI9GN/a4cLjc10fPkgnbEa0StLGJ1C",
+      "nome": "Caique",
+      "id": 3
+    }
+  ],
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Avaí subiu para a série A",
+      "descricao": "Avaí subiu para a série A do campeonato brasileiro"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/canids.jpg",
+      "titulo": "Black Friday derruba o preco do Disco de Freio",
+      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+    },
+    {
+      "id": 3,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Renato Gaucho demitido",
+      "descricao": "Renato Gaucho foi demitido do Flamengo após jogo contra o Palmeiras"
+    },
+    {
+      "id": 4,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Black Friday derruba o preco do Disco de Freio",
+      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+    },
+    {
+      "id": 5,
+      "imagem": "assets/img/canids.jpg",
+      "titulo": "Black Friday derruba o preco do Disco de Freio",
+      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+    },
+    {
+      "id": 6,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Black Friday derruba o preco do Disco de Freio",
+      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+    }
+  ]
+}
