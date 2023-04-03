@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lozano\\Desktop\\Github\\PFS_T17_PFE_T11\\UC12\\SA2\\ER4\\Atividade1\\Atividade1.csproj",
+      "projectUniqueName": "C:\\Users\\lozano\\Desktop\\Github\\PFS_T17_PFE_T11\\UC12\\SA2\\ER5\\Atividade1\\Atividade1.csproj",
       "projectName": "Atividade1",
-      "projectPath": "C:\\Users\\lozano\\Desktop\\Github\\PFS_T17_PFE_T11\\UC12\\SA2\\ER4\\Atividade1\\Atividade1.csproj",
+      "projectPath": "C:\\Users\\lozano\\Desktop\\Github\\PFS_T17_PFE_T11\\UC12\\SA2\\ER5\\Atividade1\\Atividade1.csproj",
       "packagesPath": "C:\\Users\\lozano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lozano\\Desktop\\Github\\PFS_T17_PFE_T11\\UC12\\SA2\\ER4\\Atividade1\\obj\\",
+      "outputPath": "C:\\Users\\lozano\\Desktop\\Github\\PFS_T17_PFE_T11\\UC12\\SA2\\ER5\\Atividade1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lozano\\AppData\\Roaming\\NuGet\\NuGet.Config",
