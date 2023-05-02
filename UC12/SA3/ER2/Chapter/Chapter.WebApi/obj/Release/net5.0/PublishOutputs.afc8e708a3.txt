@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Chapter.WebApi.exe
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\web.config
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\appsettings.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Chapter.WebApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Chapter.WebApi.deps.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Chapter.WebApi.runtimeconfig.json
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Chapter.WebApi.pdb
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrador\Desktop\seguranca\Chapter\Chapter.WebApi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
